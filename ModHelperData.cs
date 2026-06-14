@@ -7,7 +7,7 @@ public static class ModHelperData
     public const string Name = "Tower DPS Display";
 
     public const string Description =
-        "Shows a tower's live DPS and average DPS (and optional cash/second) " +
+        "Shows a tower's live DPS and average DPS" +
         "right next to its Damage and Cash counters in the selection menu.";
 
     public const string RepoOwner = "forso4237";
